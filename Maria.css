@@ -1,0 +1,72 @@
+* {
+    Color: #EEE;
+    Background-Color: #111;
+    Box-Sizing: Border-Box;
+    Font-Family: OpenSans-Light;
+    Font-Size: 20Px;
+    Margin: 0;
+    Padding: 0;
+}
+
+A {
+    Text-Decoration: None;
+}
+
+.Content {
+    Margin: 0 Auto;
+    Max-Width: 50%;
+}
+
+.Date {
+    Font-Size: 15Px;
+    Margin: 10Px 0;
+}
+
+.IT {
+    Color: #EEE;
+    Font-Family: OpenSans-Light;
+    Font-Size: 15Px;
+    Margin-Left: 5Px;
+    Margin-Right: 5Px;
+}
+
+.Film {
+    Display: Flex;
+}
+
+.L {
+    Background-color: #EEE;
+    Flex-Grow: 1;
+    Height: 1Px;
+}
+
+.SS {
+    Align-Items: Center;
+    Display: Flex;
+    Justify-Content: Center;
+}
+
+Header * {
+    font-family: Lora-Regular;
+    text-align: center;
+}
+
+Header H1 {
+    Font-Size: 30Px;
+}
+
+#Featured Img {
+    Border-Radius: 5Px;
+    Margin-Right: 10Px;
+    Display: Block;
+}
+
+@Font-Face {
+    Font-Family: OpenSans-Light;
+    Src: URL(../Fonts/Open_Sans/static/OpenSans-Light.ttf);
+}
+
+@Font-Face {
+    Font-Family: Lora-Regular;
+    Src: URL(Fonts/Lora/static/Lora-Regular.ttf);
+}

@@ -1,0 +1,27 @@
+Img {
+    Border-Radius: 5Px;
+    Display: Block;
+    Margin-Right: 20Px;
+}
+
+.Nav {
+    Display: Flex;
+    Justify-Content: Space-Between;
+}
+
+SVG {
+    Height: 20Px;
+    Margin-Right: 10Px;
+    Width: 20Px;
+}
+
+.Top {
+    Align-Items: Center;
+    Display: Flex;
+}
+
+.User {
+    Color: #00E054;
+    Font-Size: 15Px;
+    Margin: 10Px 0;
+}
